@@ -9,7 +9,7 @@ I am a Master's student in **Artificial Intelligence Engineering** at the Univer
 - **Current Mission**: Optimizing the path to graduation (while keeping stress levels low)
 
 ### 🛠 Tech stack
-- **Languages** | `Python`, `C/C++`, `SQL` |
+- **Languages** | `Python`, `C/C++`, `Java` |
 - **AI / ML** | `PyTorch`, `Scikit-learn`, `Stable-Baseline`, `Gymnasium`  |
 - **Infrastructure** | `Docker`, `Linux`, `Git` |
 
